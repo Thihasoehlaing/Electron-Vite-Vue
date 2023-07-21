@@ -1,5 +1,6 @@
-# Tax Desktop
+# Desktop
 
+- [electron-vite](https://electron-vite.org/)
 An Electron application with Vue
 
 ## Recommended IDE Setup
