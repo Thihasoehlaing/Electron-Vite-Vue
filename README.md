@@ -1,11 +1,8 @@
 # Desktop
 
-- [electron-vite](https://electron-vite.org/)
+[Electron Vite](https://electron-vite.org/)
+
 An Electron application with Vue
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Project Setup
 
@@ -33,4 +30,3 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
-# Electron-Vite-Vue
